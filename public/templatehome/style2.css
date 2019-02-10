@@ -1,0 +1,17 @@
+#logoHeader{
+    width: 200px;
+    height: 50px;
+}
+.navbar{
+    height: 70px;
+    width: 100%;
+    position: fixed;
+}
+#shopNavbar{
+    width: 20px;
+    height: 20px;
+}
+#loginNavbar{
+    width: 20px;
+    height: 20px;
+}
